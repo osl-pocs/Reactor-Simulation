@@ -1,9 +1,9 @@
 # CSTR-Model
 Reactor Simulation - Educational purpose
-Overview
+## Overview
 Welcome to the Educational CFD and Reactor Simulation Project! This repository hosts educational materials, code samples, and simulation tools focused on the fascinating world of Computational Fluid Dynamics (CFD) applied to reactor simulations. This project aims to provide students, researchers, and enthusiasts with a hands-on learning experience in fluid dynamics, numerical simulations, and reactor behavior.
 
-Goals
+## Goals
 The primary goals of this project are:
 
 Educational Exploration: To offer an interactive learning platform for individuals interested in understanding Computational Fluid Dynamics principles and their application to reactor simulations.
