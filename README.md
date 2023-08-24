@@ -32,7 +32,7 @@ conda env create --file conda/base.yaml
 Activate your environment
 
 ```
-conda activate 
+conda activate reactor-sim
 ```
 
 Run locally
