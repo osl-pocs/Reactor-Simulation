@@ -11,3 +11,32 @@ Educational Exploration: To offer an interactive learning platform for individua
 Hands-on Experience: To provide practical examples, code templates, and simulation scenarios that users can work with to gain real-world experience in solving fluid flow problems.
 
 Collaboration and Contribution: To encourage collaboration among the community by allowing contributors to submit enhancements, bug fixes, and additional simulation scenarios.
+
+## Setup
+
+Requirements
+
+It is recommended to use mamba or miniconda
+
+```
+python
+conda
+```
+
+Create a a new `conda` environment
+
+```
+conda env create --file conda/base.yaml 
+```
+
+Activate your environment
+
+```
+conda activate 
+```
+
+Run locally
+
+```
+python src/reactor.py
+```
