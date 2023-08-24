@@ -1,0 +1,11 @@
+name: reactor-sim
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pip:
+    - makim==1.8.2
+    
