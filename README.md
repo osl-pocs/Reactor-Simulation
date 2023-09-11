@@ -40,3 +40,26 @@ Run locally
 ```
 python src/reactor.py
 ```
+
+
+
+convertToMeters 1;
+vertices
+(
+    (0 0 0)
+    (1 0 0)
+    (1 1 0)
+    (0 1 0)
+    (0 0 1)
+    (1 0 1)
+    (1 1 1)
+    (0 1 1)
+);
+blocks
+(
+    hex (0 1 2 3 4 5 6 7) (10 10 10) simpleGrading (1 1 1)
+);
+edges
+(
+    arc 0 1 (0.5 -0.5 0)
+    arc 1 2
